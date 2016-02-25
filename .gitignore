@@ -1,0 +1,13 @@
+Obj/
+OBJ/
+Listings/
+List/
+*.dep
+!*.lib
+*.uvopt
+*.56390
+*.ice_q
+History/
+*.PcbDocPreview
+*.SchDocPreview
+
