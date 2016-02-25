@@ -459,6 +459,11 @@
               <FileType>1</FileType>
               <FilePath>..\FWLIB\src\stm32f4xx_dma.c</FilePath>
             </File>
+            <File>
+              <FileName>myiic.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\IIC\myiic.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
